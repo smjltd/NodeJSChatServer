@@ -1,2 +1,3 @@
 # NodeJSChatServer
 NodeJS Chat Server Example...
+Don't forget to change the local ip in mongodb config file to hosting ip
